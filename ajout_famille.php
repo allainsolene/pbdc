@@ -17,4 +17,4 @@ $site-> right_sidebar=$site-> rempli_right_sidebar();
 $site-> left_sidebar=$controleur->retourne_formulaire_famille('Ajout');
 
 $site->affiche();
-?>
+?>gfdgdf
